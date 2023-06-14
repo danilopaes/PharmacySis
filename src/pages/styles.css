@@ -1,0 +1,12 @@
+.formLabel {
+  margin-top: 0.5rem;
+}
+body {
+  background-image: url("https://img.freepik.com/foto-gratis/capsulas-medicina-salud-global-remix-digital-patron-geometrico_53876-126742.jpg?w=1380&t=st=1686746933~exp=1686747533~hmac=26d1ec0a676407eb64e3a6cd31b36396b2d31488d89f2bfd7fd99d356417347f");
+}
+.container {
+  background-color: rgba(240, 248, 25, 0.904);
+  border-radius: 10px;
+  padding: 1rem;
+  margin-top: 1rem;
+}

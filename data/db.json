@@ -1,0 +1,82 @@
+{
+  "farmacias": [
+    {
+      "cep": "88704761",
+      "nome": "guilherme ghisi",
+      "email": "guilhermeghisi14@gmail.com",
+      "telefone": "+5548998017717",
+      "endereco": "Avenida Expedicionário José Pedro Coelho",
+      "bairro": "Revoredo",
+      "cidade": "Tubarão",
+      "estado": "SC",
+      "razao": "aaaaaaaaaaaaaaaaaaaaaaaa",
+      "cnpj": "aaaaaaaaaaaaaa",
+      "celular": "aaaaaaaaaaaaaaaaaaaaaaaaa",
+      "numero": "1557",
+      "latitude": "-28.471488",
+      "longitude": "-49.014132",
+      "id": "C33R9zs"
+    },
+    {
+      "cep": "89812000",
+      "endereco": "Avenida Getúlio Dorneles Vargas - S",
+      "bairro": "Centro",
+      "cidade": "Chapecó",
+      "estado": "SC",
+      "razao": "bbbbbbbbbbbbbbbbbbbbbbbb",
+      "email": "bbbb@bbbbbbbb",
+      "cnpj": "bbbbbbbbbbbbbb",
+      "nome": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "telefone": "bbbbbbbbb",
+      "celular": "bbbbbbbbbbbbbbbbbbbbbbb",
+      "numero": "575",
+      "latitude": "-27.0922364",
+      "longitude": "-52.6166878",
+      "id": "HlgFu4e"
+    },
+    {
+      "razao": "dddddddddddd",
+      "email": "danilo@danilo",
+      "cnpj": "00000000000000",
+      "telefone": "48996039999",
+      "celular": "48996039999",
+      "cep": "88701840",
+      "endereco": "Rua Sebastião Florentino Martins",
+      "bairro": "Congonhas",
+      "cidade": "Tubarão",
+      "estado": "SC",
+      "latitude": "-28.471488",
+      "longitude": "-49.014132",
+      "nome": "dddddddddddd",
+      "numero": "45",
+      "id": "IuZALoZ"
+    },
+    {
+      "razao": "eeeeeeeeeeeee",
+      "nome": "ee",
+      "email": "danilop@dan",
+      "cnpj": "00000000000000",
+      "telefone": "4899999999",
+      "celular": "48999999999",
+      "cep": "88790000",
+      "endereco": "rua fonseca galvao",
+      "bairro": "mar grosso",
+      "cidade": "Laguna",
+      "estado": "SC",
+      "numero": "78",
+      "latitude": "-28.4837443",
+      "longitude": "-48.7816572",
+      "id": "l_0HMoY"
+    }
+  ],
+  "medicamentos": [
+    {
+      "nomeMed": "medicamento",
+      "nomeLab": "laboratorio",
+      "dosagem": "dosagem",
+      "preco": "valor",
+      "tipo": "controlado",
+      "id": "1oql9zR"
+    }
+  ]
+}
